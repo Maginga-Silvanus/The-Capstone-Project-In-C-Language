@@ -85,6 +85,7 @@ void displayBusSchedule() {
         {6, "Shuttle", "Mombasa-Migori", "Mombasa", "09:30 AM"},
         {7, "Runner", "Nairobi-Migori", "Mombasa", "10:45 AM"},
         {8, "Burnout", "Nairobi-Nakuru", "Nairobi", "12:15 PM"}
+        {9, "Matrix", "Nairobi-Nakuru", "Nairobi", "12:15 PM"}
     };
 
     int numBuses = sizeof(buses) / sizeof(buses[0]);
